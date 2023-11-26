@@ -1,0 +1,32 @@
+[tool.poetry]
+name = "gy5021"
+version = "0.1.0"
+description = "Python package for UL Geography module GY5021"
+authors = ["bamacgabhann <127785144+breandan.macgabhann@users.noreply.github.com>"]
+license = "BSD 3-clause license"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pandas = "^2.1.3"
+geopandas = "^0.14.1"
+movingpandas = "^0.17.2"
+rasterio = "^1.3.9"
+pyproj = "^3.6.1"
+fiona = "^1.9.5"
+cartopy = "^0.22.0"
+numpy = "^1.26.2"
+matplotlib = "^3.8.2"
+eomaps = "^7.3.1"
+osmnx = "^1.7.1"
+gdal = "3.4.3"
+
+
+[tool.poetry.group.dev.dependencies]
+black = "^23.11.0"
+flake8 = "^6.1.0"
+ipykernel = "^6.26.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
