@@ -2,16 +2,13 @@
 Repository for UL Geography module GY5021 Environmental Geospatial Data Analysis
 
 Introduction to Geospatial Data  
-1.1 Introduction to Colab and Python  
-1.2 Data Types  
+1.1 Geospatial Software and Programming Languages   
+1.2 Data and Data Types  
 1.3 Vector Data  
-1.4 Maps and Coordinate Systems  
-1.5 Attribute Data  
-1.6 Sources of Geospatial Vector Data  
-1.7 Vector symbology  
-1.8 Vector Geoprocessing  
-1.9 Introduction to QGIS (and pyQGIS)  
-1.10 Exercise: Creating a vector base map  
+1.4 Attribute Data  
+1.5 Coordinate Reference Systems  
+1.6 Geospatial Data Files  
+1.7 Vector Geoprocessing  
   
 Geospatial Raster Data  
 2.1 Introduction to Raster Data: Pixels and Spatial Resolution  
