@@ -2,13 +2,28 @@
 Repository for UL Geography module GY5021 Environmental Geospatial Data Analysis
 
 Introduction to Geospatial Data  
-1.1 Geospatial Software and Programming Languages   
-1.2 Data and Data Types  
-1.3 Vector Data  
-1.4 Attribute Data  
-1.5 Coordinate Reference Systems  
-1.6 Geospatial Data Files  
-1.7 Vector Geoprocessing  
+
+1. Geospatial Software and Programming Languages <a href="https://colab.research.google.com/github/bamacgabhann/GY5021/blob/2024/GY5021/1_Introduction_to_Geospatial_Data/GY5021_1_Geospatial_Software_and_Programming_Languages.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>     <a href="https://mybinder.org/v2/gh/bamacgabhann/GY5021/9a706c8973d5bde0e50593ecc94941b0426f24a6?urlpath=lab%2Ftree%2FGY5021%2F1_Introduction_to_Geospatial_Data%2FGY5021_1_Geospatial_Software_and_Programming_Languages.ipynb" target="_parent"><img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder" /></a>
+
+2. Data Types <a href="https://colab.research.google.com/github/bamacgabhann/GY5021/blob/2024/GY5021/1_Introduction_to_Geospatial_Data/GY5021_2_Data_Types.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>     <a href="https://mybinder.org/v2/gh/bamacgabhann/GY5021/9a706c8973d5bde0e50593ecc94941b0426f24a6?urlpath=lab%2Ftree%2FGY5021%2F1_Introduction_to_Geospatial_Data%2FGY5021_2_Data_Types.ipynb" target="_parent"><img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder" /></a>
+
+3. Vector Data <a href="https://colab.research.google.com/github/bamacgabhann/GY5021/blob/2024/GY5021/1_Introduction_to_Geospatial_Data/GY5021_3_Vector_Data.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>     <a href="https://mybinder.org/v2/gh/bamacgabhann/GY5021/9a706c8973d5bde0e50593ecc94941b0426f24a6?urlpath=lab%2Ftree%2FGY5021%2F1_Introduction_to_Geospatial_Data%2FGY5021_3_Vector_Data.ipynb" target="_parent"><img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder" /></a>
+
+4. Attribute Data <a href="https://colab.research.google.com/github/bamacgabhann/GY5021/blob/2024/GY5021/1_Introduction_to_Geospatial_Data/GY5021_4_Attribute_Data.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>     <a href="https://mybinder.org/v2/gh/bamacgabhann/GY5021/9a706c8973d5bde0e50593ecc94941b0426f24a6?urlpath=lab%2Ftree%2FGY5021%2F1_Introduction_to_Geospatial_Data%2FGY5021_4_Attribute_Data.ipynb" target="_parent"><img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder" /></a>
+
+5. Coordinate Reference Systems <a href="https://colab.research.google.com/github/bamacgabhann/GY5021/blob/2024/GY5021/1_Introduction_to_Geospatial_Data/GY5021_5_Coordinate_Reference_Systems.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>     <a href="https://mybinder.org/v2/gh/bamacgabhann/GY5021/9a706c8973d5bde0e50593ecc94941b0426f24a6?urlpath=lab%2Ftree%2FGY5021%2F1_Introduction_to_Geospatial_Data%2FGY5021_5_Coordinate_Reference_Systems.ipynb" target="_parent"><img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder" /></a>
+
+6. Geospatial Data Files <a href="https://colab.research.google.com/github/bamacgabhann/GY5021/blob/2024/GY5021/1_Introduction_to_Geospatial_Data/GY5021_6_Geospatial_Data_Files.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>     <a href="https://mybinder.org/v2/gh/bamacgabhann/GY5021/9a706c8973d5bde0e50593ecc94941b0426f24a6?urlpath=lab%2Ftree%2FGY5021%2F1_Introduction_to_Geospatial_Data%2FGY5021_6_Geospatial_Data_Files.ipynb" target="_parent"><img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder" /></a>
+
+7. Vector Geoprocessing <a href="https://colab.research.google.com/github/bamacgabhann/GY5021/blob/2024/GY5021/1_Introduction_to_Geospatial_Data/GY5021_7_Vector_Geoprocessing.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>     <a href="https://mybinder.org/v2/gh/bamacgabhann/GY5021/9a706c8973d5bde0e50593ecc94941b0426f24a6?urlpath=lab%2Ftree%2FGY5021%2F1_Introduction_to_Geospatial_Data%2FGY5021_7_Vector_Geoprocessing.ipynb" target="_parent"><img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder" /></a>
+
+Additional:
+
+- The Python Language <a href="https://colab.research.google.com/github/bamacgabhann/GY5021/blob/2024/GY5021/1_Introduction_to_Geospatial_Data/GY5021_The_Python_Language.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>     <a href="https://mybinder.org/v2/gh/bamacgabhann/GY5021/9a706c8973d5bde0e50593ecc94941b0426f24a6?urlpath=lab%2Ftree%2FGY5021%2F1_Introduction_to_Geospatial_Data%2FGY5021_The_Python_Language.ipynb" target="_parent"><img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder" /></a>
+
+- Getting Started Seriously With Python <a href="https://colab.research.google.com/github/bamacgabhann/GY5021/blob/2024/GY5021/1_Introduction_to_Geospatial_Data/GY5021_Getting_Started_Seriously_With_Python.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>     <a href="https://mybinder.org/v2/gh/bamacgabhann/GY5021/9a706c8973d5bde0e50593ecc94941b0426f24a6?urlpath=lab%2Ftree%2FGY5021%2F1_Introduction_to_Geospatial_Data%2FGY5021_Getting_Started_Seriously_With_Python.ipynb" target="_parent"><img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder" /></a>
+
+Upcoming:  
   
 Geospatial Raster Data  
 2.1 Introduction to Raster Data: Pixels and Spatial Resolution  
@@ -36,3 +51,5 @@ Mapping for environmental geospatial data analysis
 5.3 Creating and editing layers and features  
 5.4 Data visualisation  
 5.5 Assignment: Mapping and analysing environmental data
+
+
