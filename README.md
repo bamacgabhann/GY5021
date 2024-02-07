@@ -22,17 +22,19 @@ Additional:
 - The Python Language <a href="https://colab.research.google.com/github/bamacgabhann/GY5021/blob/2024/GY5021/1_Introduction_to_Geospatial_Data/GY5021_The_Python_Language.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>     <a href="https://mybinder.org/v2/gh/bamacgabhann/GY5021/9a706c8973d5bde0e50593ecc94941b0426f24a6?urlpath=lab%2Ftree%2FGY5021%2F1_Introduction_to_Geospatial_Data%2FGY5021_The_Python_Language.ipynb" target="_parent"><img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder" /></a>
 
 - Getting Started Seriously With Python <a href="https://colab.research.google.com/github/bamacgabhann/GY5021/blob/2024/GY5021/1_Introduction_to_Geospatial_Data/GY5021_Getting_Started_Seriously_With_Python.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>     <a href="https://mybinder.org/v2/gh/bamacgabhann/GY5021/9a706c8973d5bde0e50593ecc94941b0426f24a6?urlpath=lab%2Ftree%2FGY5021%2F1_Introduction_to_Geospatial_Data%2FGY5021_Getting_Started_Seriously_With_Python.ipynb" target="_parent"><img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder" /></a>
-
-Upcoming:  
   
+    
 Geospatial Raster Data  
-2.1 Introduction to Raster Data: Pixels and Spatial Resolution  
-2.2 Single-band rasters: Digital Elevation Models  
-2.3 Multi-band rasters: Passive Remote Sensing - Multispectral Imagery (MSI)  
-2.4 Multi-band rasters: Active Remote Sensing - Synthetic Aperture Radar (SAR)  
-2.5 Raster geoprocessing  
-2.6 When to use raster formats?  
-2.7 Exercise: Raster geospatial data  
+  
+8. Introduction to Raster Data <a href="https://colab.research.google.com/github/bamacgabhann/GY5021/blob/2024/GY5021/2_Raster_Geospatial_Data/GY5021_8_Introduction_To_Raster_Data.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>     <a href="https://mybinder.org/v2/gh/bamacgabhann/GY5021/9a706c8973d5bde0e50593ecc94941b0426f24a6?urlpath=lab%2Ftree%2FGY5021%2F2_Raster_Geospatial_Data%2FGY5021_8_Introduction_To_Raster_Data.ipynb" target="_parent"><img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder" /></a>
+
+9. Single-band Raster Data <a href="https://colab.research.google.com/github/bamacgabhann/GY5021/blob/2024/GY5021/2_Raster_Geospatial_Data/GY5021_9_Single-band_Raster_Data.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>     <a href="https://mybinder.org/v2/gh/bamacgabhann/GY5021/9a706c8973d5bde0e50593ecc94941b0426f24a6?urlpath=lab%2Ftree%2FGY5021%2F2_Raster_Geospatial_Data%2FGY5021_9_Single-band_Raster_Data.ipynb" target="_parent"><img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder" /></a>
+
+10. Multi-band Rasters Data: Passive Remote Sensing  
+    
+11. Multi-band Raster Data: Active Remote Sensing  
+
+*Forthcoming:*  
   
 Spatial and Temporal Change  
 3.1 Measurements over time  
@@ -40,7 +42,6 @@ Spatial and Temporal Change
 3.3 Census data through time  
 3.4 Measurements at multiple locations  
 3.5 Environmental Data Sources  
-3.6 Exercise: Data changing over space and time  
   
 Google Earth Engine  
 4.1  
