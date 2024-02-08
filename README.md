@@ -26,22 +26,21 @@ Additional:
     
 Geospatial Raster Data  
   
+  
 8. Introduction to Raster Data <a href="https://colab.research.google.com/github/bamacgabhann/GY5021/blob/2024/GY5021/2_Raster_Geospatial_Data/GY5021_8_Introduction_To_Raster_Data.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>     <a href="https://mybinder.org/v2/gh/bamacgabhann/GY5021/9a706c8973d5bde0e50593ecc94941b0426f24a6?urlpath=lab%2Ftree%2FGY5021%2F2_Raster_Geospatial_Data%2FGY5021_8_Introduction_To_Raster_Data.ipynb" target="_parent"><img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder" /></a>
 
 9. Single-band Raster Data <a href="https://colab.research.google.com/github/bamacgabhann/GY5021/blob/2024/GY5021/2_Raster_Geospatial_Data/GY5021_9_Single-band_Raster_Data.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>     <a href="https://mybinder.org/v2/gh/bamacgabhann/GY5021/9a706c8973d5bde0e50593ecc94941b0426f24a6?urlpath=lab%2Ftree%2FGY5021%2F2_Raster_Geospatial_Data%2FGY5021_9_Single-band_Raster_Data.ipynb" target="_parent"><img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder" /></a>
 
-10. Multi-band Rasters Data: Passive Remote Sensing  
-    
-11. Multi-band Raster Data: Active Remote Sensing  
+10. Multi-band Raster Data: Passive Remote Sensing <a href="https://colab.research.google.com/github/bamacgabhann/GY5021/blob/2024/GY5021/2_Raster_Geospatial_Data/GY5021_10_Multi-band_Raster_Data-Passive_Remote_Sensing.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>     <a href="https://mybinder.org/v2/gh/bamacgabhann/GY5021/9a706c8973d5bde0e50593ecc94941b0426f24a6?urlpath=lab%2Ftree%2FGY5021%2F2_Raster_Geospatial_Data%2FGY5021_10_Multi-band_Raster_Data-Passive_Remote_Sensing.ipynb" target="_parent"><img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder" /></a>
+ 
 
 *Forthcoming:*  
   
 Spatial and Temporal Change  
-3.1 Measurements over time  
+3.1 Changing measurements: Active Remote Sensing   
 3.2 Moving objects  
 3.3 Census data through time  
 3.4 Measurements at multiple locations  
-3.5 Environmental Data Sources  
   
 Google Earth Engine  
 4.1  
