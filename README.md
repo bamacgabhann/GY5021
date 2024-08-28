@@ -45,14 +45,3 @@ Spatial and Temporal Change
 
 13. Moving Objects  <a href="https://colab.research.google.com/github/bamacgabhann/GY5021/blob/2024/GY5021/3_Spatial_and_Temporal_Change/GY5021_13_Spatial_Change-Moving_Features.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>     <a href="https://mybinder.org/v2/gh/bamacgabhann/GY5021/9a706c8973d5bde0e50593ecc94941b0426f24a6?urlpath=lab%2Ftree%2FGY5021%2F3_Spatial_and_Temporal_Change%2FGY5021_13_Spatial_Change-Moving_Features.ipynb" target="_parent"><img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder" /></a>
   
-    
-*Forthcoming:*  
-  
-
-Mapping for environmental geospatial data analysis  
-5.1 Collecting Geospatial Data  
-5.2 Georeferencing  
-5.3 Creating and editing layers and features  
-5.4 Data visualisation  
-
-
