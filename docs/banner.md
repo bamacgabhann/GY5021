@@ -1,0 +1,1 @@
+![Navigator Geospatial Course Logo](./assets/images/NG_geospatial_data_logo.png)

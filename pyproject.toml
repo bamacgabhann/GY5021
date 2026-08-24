@@ -1,0 +1,35 @@
+[project]
+name = "gy5021"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "bamacgabhann", email = "b.macgabhann@gmail.com" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "earthpy>=0.9.4",
+    "geopandas>=1.1.4",
+    "matplotlib>=3.11.1",
+    "movingpandas>=0.23.0",
+    "numpy>=2.5.2",
+    "osmnx>=2.1.1",
+    "pandas>=3.0.5",
+    "pyarrow>=25.0.1",
+    "rasterio>=1.5.1",
+    "setuptools<=80.10.2",
+    "shapely>=2.1.2",
+]
+
+[project.scripts]
+gy5021 = "gy5021:main"
+
+[build-system]
+requires = ["uv_build>=0.12.3,<0.13.0"]
+build-backend = "uv_build"
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.3.0",
+    "jupyter-book>=2.1.6",
+]
