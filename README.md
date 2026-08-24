@@ -1,7 +1,7 @@
 # Geospatial Data Analysis
 
 
-![Navigator Geospatial Course Logo](./assets/images/NG_geospatial_data_logo.png)
+![Navigator Geospatial Course Logo](./docs/assets/images/NG_geospatial_data_logo.png)
 
 We all have devices in our pockets which make previous generations of supercomputers look like toys. There's thousands of satellites orbiting the earth, collecting data - and including GNSS satellites facilitating precise locations. The amount of data tied to places available now is simply too large to comprehend - and we have the computing power available to use it. 
 
